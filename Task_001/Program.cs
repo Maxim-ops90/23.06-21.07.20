@@ -1,2 +1,12 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿int a = 25;
+int b = 5;
+if(a == b * b);
+{
+    Console.WriteLine("OK!!");
+}
+
+{
+  Console.WriteLine("False");  
+}
+
+    
